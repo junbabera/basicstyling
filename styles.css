@@ -22,7 +22,7 @@ ul{
     padding: 25px;
 }
 
-a:link, special {
+special, a:link {
     color: #82b8de;
   }
   
