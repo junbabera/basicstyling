@@ -1,4 +1,4 @@
-h4, p, h2, ul {
+h5, p, h2, ul {
     font-family: helvetica;
 }
 
@@ -7,7 +7,7 @@ h1 {
     border-bottom: dotted 5px #375e97;
 }
 
-h4{
+h5{
     color: #999999;
     font-weight: bold;
 }
